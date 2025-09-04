@@ -22,6 +22,9 @@ body {
   background-color: #f8f9fa;
   color: #2c3e50;
 }
+* {
+  transition: all 0.2s ease-in-out;
+}
 
 /* Header styling */
 header { 
